@@ -1,0 +1,6 @@
+{
+  "name": "Sarkari Talk - सरकारी योजनाएँ और सेवाएँ",
+  "description": "सरकारी योजनाएँ, ऑनलाइन सेवाएँ, बिहार RTPS, राशन कार्ड, आधार, पैन और छात्रवृत्ति की सरल हिंदी में प्रामाणिक जानकारी और आधिकारिक लिंक।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
